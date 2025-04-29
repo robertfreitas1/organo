@@ -4,7 +4,7 @@ import CampoTexto from '../CampoTexto/CampoTexto'
 import ListaSuspensa from '../ListaSuspensa'
 import './Formulario.css'
 
-const Formulario = () =>{
+const Formulario = (props) =>{
     const times = [
    
     ]
